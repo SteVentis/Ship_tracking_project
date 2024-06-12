@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./ship_tracker_env/data", "./ship_tracker_env/data/db_connection"]
+}
